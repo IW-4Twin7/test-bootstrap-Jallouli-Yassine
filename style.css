@@ -1,0 +1,101 @@
+/*GENERAL*/
+/*NAV*/
+/*nav title*/
+/*BODY*/
+/**************title**************/
+/**************sous title**************/
+/**************BTN**************/
+/**************TEXT OF BTN**************/
+/*taht btn*/
+/*BTN PREVIOUS*/
+/*text mte3 btn previous*/
+/*footer title*/
+body {
+  overflow-x: hidden;
+}
+
+.navTitle {
+  font-size: 27px;
+  letter-spacing: -2px;
+  line-height: 0px;
+  color: #000000;
+  font-weight: bold;
+  font-family: "Open Sans", sans-serif;
+}
+
+.navItemss a {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #242f51;
+  font-family: "Lato";
+  margin-left: 60px;
+}
+
+.title {
+  font-size: 22px;
+  color: #000000;
+  font-weight: bold;
+  font-family: "Lato", sans-serif;
+  text-align: left;
+}
+
+.textSousTitle {
+  font-size: 15px;
+  line-height: 24px;
+  color: #535353;
+  font-family: "Open Sans", sans-serif;
+}
+
+.btn1 {
+  width: 124px;
+  height: 26px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  border: 1px solid #e85f37;
+  font-size: 13px;
+  letter-spacing: 2px;
+  line-height: 0px;
+  text-transform: uppercase;
+  color: #e85f37;
+  font-weight: bold;
+  font-family: "Open Sans", sans-serif;
+}
+
+.commentTags {
+  font-size: 12px;
+  line-height: 0px;
+  color: #535353;
+  font-weight: bold;
+  font-family: "Open Sans", sans-serif;
+  text-align: left;
+}
+
+.btn2 {
+  width: 135px;
+  height: 35px;
+  border-radius: 5px;
+  background-color: #000000;
+  font-size: 13px;
+  letter-spacing: 2px;
+  line-height: 0px;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: "Font Awesome";
+}
+
+.footerTitle {
+  font-size: 13px;
+  letter-spacing: 2px;
+  line-height: 0px;
+  text-transform: uppercase;
+  color: #525252;
+  font-family: "Lato";
+  text-align: left;
+}
+
+.imargin i {
+  margin-left: 40px;
+}
+
+/*# sourceMappingURL=style.css.map */
